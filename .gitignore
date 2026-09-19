@@ -1,0 +1,9 @@
+History/
+__Previews/
+Project Logs for */
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.LOG
+*.drc
+Status Report.txt
