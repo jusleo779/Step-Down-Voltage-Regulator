@@ -104,10 +104,6 @@ Each power trace narrows to 0.254mm where it meets U1's pins, since the SOT-23 p
 
 Open `PCB_Project_1.PrjPcb` in Altium Designer to view or edit the design.
 
-## Credits
-
-I followed the [Midnight Sun Solar Car Team](https://www.uwmidsun.com/) (University of Waterloo) PCB onboarding tutorial for this design and built it as a personal learning project.
-
 ## References
 
 - [TPS562201 datasheet](https://www.ti.com/product/TPS562201)
