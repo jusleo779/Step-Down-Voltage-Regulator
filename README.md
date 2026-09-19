@@ -2,7 +2,7 @@
 
 A 2-layer buck converter PCB that takes 10 to 15V in and puts out 5V at up to 2A. I designed it in Altium Designer around the TI TPS562201.
 
-![3D top view of the board](images/3d-top.png)
+![3D top view of the board](3d-top.png)
 
 ## Status
 
@@ -27,7 +27,7 @@ A 2-layer buck converter PCB that takes 10 to 15V in and puts out 5V at up to 2A
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](schematic.png)
 
 R1 (54.9kΩ) and R2 (10kΩ) set the output voltage:
 
@@ -61,9 +61,9 @@ Pin 1 on each connector carries a "+" mark on the silkscreen. Check your cable w
 
 ## Layout
 
-![Side view](images/3d-side.png)
+![Side view](3d-side.png)
 
-![Bottom view](images/3d-bottom.png)
+![Bottom view](3d-bottom.png)
 
 ### Trace widths
 
